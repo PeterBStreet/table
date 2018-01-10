@@ -1,45 +1,7 @@
-h1 {
-	color: green;
+td {
+	border:1px solid black;
 }
 
-h2{
-	color: red;
-}
-
-
-
-li {
-	list-style: none;
-	color: blue;
-}
-
-table {
-	border-collapse: collapse;
-}
-
-table, td, th {
-	border: 1px solid black;
-}
-
-.pl {
-	list-style-type: square;
-}
-
-.center {
-	width:100%;
-	margin: auto;
-	text-align: right;
-}
-
-.cl{
-	width:15%;
-	list-style-position: inside;
-	text-align: center;
-	display: inline-block;
-}
-
-input, label {
-	display: block;
-	margin-top: 3em
-
+th{
+	background-color: lightgray;
 }
